@@ -2,7 +2,7 @@
 
 A filter to lint javascript files using 
 [JSHint](https://github.com/jshint/jshint/)
-(via [jshintrb](https://github.com/stereobooster/jshintrb) in
+(via [jshintrb](https://github.com/stereobooster/jshintrb)) in
 [Nanoc](http://nanoc.ws).
 
 ## Installation ##
