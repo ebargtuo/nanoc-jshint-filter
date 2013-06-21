@@ -1,8 +1,8 @@
-# JS Hint #
+# JS Hint Filter #
 
 A filter to lint javascript files using 
 [JSHint](https://github.com/jshint/jshint/)
-(via [jshintrb](https://github.com/stereobooster/jshintrb)) in
+(via [jshintrb](https://github.com/stereobooster/jshintrb) in
 [Nanoc](http://nanoc.ws).
 
 ## Installation ##
@@ -31,8 +31,8 @@ Use the filter in `compile` rules as necessary. Examples:
         end
     end
 
-If JS Hint has nothing to report, the filter produces no output.
-If there are any messages from JS Hint, they are output to `STDOUT`.
+If JSHint has nothing to report, the filter produces no output.
+If there are any messages from JSHint, they are output to `STDOUT`.
 
 ## Notes and Issues ##
 
